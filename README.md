@@ -1,4 +1,4 @@
-# GALLERIA ECOMMERCE WEBSITE [(link)](https://galleria-ecommerce.herokuapp.com/)
+# GALLERIA ECOMMERCE WEBSITE 
 
 This is a complete ecommerce website made using django in which anyone can buy his/her fashion items without any difficulty.
 So what are you waiting for? Click on the link and watchout the project.
@@ -43,10 +43,3 @@ django-admin startproject 'project_name'
 ```
 python manage.py runserver
 ```
-
-## Production link
-[https://galleria-ecommerce.herokuapp.com/](https://galleria-ecommerce.herokuapp.com/)
-
-## Designed By
-[Abhishek Jaiswal](https://www.linkedin.com/in/abhishek-jaiswal-749b681a3/)
-
