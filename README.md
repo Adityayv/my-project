@@ -15,7 +15,6 @@ So what are you waiting for? Click on the link and watchout the project.
 * Filter and sorting of the products is implemented by using the forms and python logics.
 * Login and signup is also made by using the django forms.
 * In the Shopping Cart the addition and the removal of the product is done through AJAX which prevents the loading of the page and simulatneously the prices are updated.
-* The media after the deployment are saved using the Cloudinary API.
 * The web app is reliable and easy to use.
 
 
@@ -29,8 +28,6 @@ CSS
 Bootstrap
 Javascript
 jQuery
-AJAX
-Cloudinary API
 ```
 
 ## Project setup
