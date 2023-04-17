@@ -1,7 +1,6 @@
 # E-COMMERCE SITE 
 
 This is a complete ecommerce website made using django in which anyone can buy his/her fashion items without any difficulty.
-So what are you waiting for? Click on the link and watchout the project.
 
 ## Some major points
 * The app is made in django(python). The website compromise of frontend and backend.
